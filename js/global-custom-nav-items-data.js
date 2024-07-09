@@ -1,4 +1,4 @@
-const globalCustomNav_items = [{
+export const globalCustomNav_items = [{
     id: 1,
     title: 'LTS',
     icon_svg: 'icon-pin',
